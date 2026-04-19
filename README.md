@@ -1,4 +1,8 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ramshacybersec/ramshacybersec-intro/main/Github%20banner.png" 
+       alt="Ramsha Cybersecurity Banner"
+       width="100%" />
+</p>
 # 💫 Hi 👋, I'm Ramsha
 **Cybersecurity Learner | Ethical Hacking & Digital Forensics Enthusiast**
 
